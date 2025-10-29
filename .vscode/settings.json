@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#FFFFFF",
+        "terminal.background": "#1E1E1E",
+        "terminal.ansiBlue": "#569CD6",
+        "terminal.ansiGreen": "#6A9955",
+        "terminal.ansiYellow": "#DCDCAA",
+        "terminal.ansiRed": "#F44747"
+    }
+}
